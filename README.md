@@ -1,5 +1,5 @@
-Decodificador de Texto
-Sobre
+#Decodificador de Texto#
+##Sobre##
 Uma aplicação que encriptografa mensagens digitadas e descriptografa mensagens encriptografadas por ele.
 
 As "chaves" de criptografia utilizadas são:
