@@ -1,5 +1,5 @@
 <h1> Decodificador de Texto </h1>
-##Sobre##
+<h2> Sobre </h2>
 Uma aplicação que encriptografa mensagens digitadas e descriptografa mensagens encriptografadas por ele.
 
 As "chaves" de criptografia utilizadas são:
