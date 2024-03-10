@@ -26,18 +26,21 @@ A letra "u" é convertida para "ufat."
   <h3> Objetivo do projeto </h3>
   Atestar e solidificar o aprendizado adquirido durante o modúlo de JavaScript, em manipulação de paginás web utilizando Java Script.
 
-Demonstração completa.
-Link: https://cezarj59.github.io/Decodificador_de_Texto/
-Técnologias e recursos utilizados.
-HTML5
-Formulários.
-CSS
-Responsividade.
-Flex-Box.
-Media Queries.
-Estilização.
-JavaScript
-DOM.
-Funções.
-Set Timeout
-Estruturas de repetição.
+<h2> Demonstração completa. </h2>
+Link: 
+  
+  <h3> Técnologias e recursos utilizados. </h3>
+    HTML5
+      - Formulários.
+    
+    CSS
+      - Responsividade.
+      -  Flex-Box.
+      -  Media Queries.
+      -  Estilização.
+    
+    JavaScript
+      -  DOM.
+      -  Funções.
+      -  Set Timeout
+      -  Estruturas de repetição.
