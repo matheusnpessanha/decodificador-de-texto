@@ -1,4 +1,4 @@
-#Decodificador de Texto#
+<h1> Decodificador de Texto </h1>
 ##Sobre##
 Uma aplicação que encriptografa mensagens digitadas e descriptografa mensagens encriptografadas por ele.
 
