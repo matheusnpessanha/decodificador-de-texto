@@ -31,7 +31,7 @@ Link:
   
   <h3> Técnologias e recursos utilizados. </h3>
     HTML5
-      - Formulários.
+      - Formulário.
     
     CSS
       - Responsividade.
