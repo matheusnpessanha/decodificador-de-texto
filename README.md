@@ -30,8 +30,9 @@ A letra "u" é convertida para "ufat."
 Link: 
   
   <h3> Técnologias e recursos utilizados. </h3>
+
     HTML5
-      - Formulário.
+      -  Formulário.
     
     CSS
       - Responsividade.
